@@ -1,0 +1,12 @@
+1. Build the application:
+	a. Go to the project folder
+	b. Issue the command 'mvn clean package'
+2. Run the application:
+	a. Go to the project/target folder
+	b. Issue the command java -jar numberencoding-1.0.jar path_to_the_input_file path_to_the_dictionary_file
+		Example: java -jar numberencoding-1.0.jar input.txt dictionary.txt
+
+============================================================================================================
+Used technologies:
+	Java 8,
+	JUnit 4.12

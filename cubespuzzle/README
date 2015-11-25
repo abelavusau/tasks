@@ -1,0 +1,12 @@
+1. Build the application:
+	a. Go to the project folder
+	b. Issue the command 'mvn clean package'
+2. Run the application:
+	a. Go to the project/target folder folder
+	b. Issue the command java -jar cubespuzzle-1.0.jar path_to_the_file_to_save_the_result
+		Example: java -jar cubespuzzle-1.0.jar result.txt
+		
+==========================================================================================
+Used technologies:
+	Java 8,
+	JUnit 4.12
